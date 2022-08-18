@@ -1,2 +1,3 @@
-# Abover - Auth Service
-Abover - Auth Service
+# Auth Service
+
+The authentication service for applications made by Abover.
